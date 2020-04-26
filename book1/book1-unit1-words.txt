@@ -1,113 +1,113 @@
 BOOK1  Unit1
-reward  vt.give sth in return for good and valuable doings½±ÉÍ »Ø±¨. 
-        n.sth as a return for good and valuable doings½±ÉÍ »Ø±¨
-rewarding  a.giving sb.satisfaction,pleasure,or profitÖµµÃ×öµÄ£¬ÓĞÒæµÄ£¬ÓĞÒâÒåµÄ
-frustrate  vt.cause sb.to have feelings of disappointment.Ê¹¾ÚÉ¥,Ê¹»ÒĞÄ
-           cause the failure of sthÊ¹´ì°Ü Ê¹ÊÜ´ìÕÛ
-junior  a.having a low position,level,or rank(µØÎ»£¬Ë®Æ½£¬²ã´Î)½ÏµÍµÄ
-       n.sb.who is youngerÄêÉÙÕß
-         sb.of low or lower position £¨µØÎ»»òµÈ¼¶£©½ÏµÍÕß£¬Íí±²  
-positive  a.helpful and encouraging in achieving sth»ı¼«µÄ
-definite;allowing no room for doubtÈ·ÊµµÄ,Ã÷È·µÄ  
-senior  a.having a higher position,level,or rank(µØÎ»£¬Ë®Æ½£¬²ã´Î)½Ï¸ßµÄ
-n.sb.who is older ½ÏÄê³¤Õß
-  sb.of high or higher position(µØÎ»»òË®Æ½)½Ï¸ßµÄ£»³¤±²
-former  a.of an earlier period ÔÚÇ°µÄ,ÒÔÇ°µÄ,¾ÉÊ±µÄ 
-n.the first of the two people or things just mentioned Ç°Õß  
-unlike  prep.noe like;different form ²»Ïñ;ºÍ... ...²»Í¬  
-intimidate  vt.create a feeling of fear ¿ÖÏÅ,ÍşĞ²  
-opportunity  n.a good moment or chance for doing sth »ú»á,Ê±»ú  
-online  a.connected to other computers through the InternetÁ¬ÏßµÄ, ÁªÍøµÄ,ÔÚÏßµÄ;
-ad.doing sth.online Á¬ÏßµØ, ÁªÍøµØ  
-communication  n.the action of sending and exchanging information ½»Á÷,½»¼Ê;Í¨Ñ¶  
-medium  n.a method for giving information Ã½Ìå,Ã½½é 
-a.of middle size,amount or quality ÖĞµÈµÄ  
-modem   n. µ÷ÖÆ½âµ÷Æ÷  
-access  n.the right to have or use sth ÏíÓÃÈ¨  
-the means of entering a placeÍ¨µÀ,Èë¿Ú  
-participate  vi.take part ²ÎÓë,²Î¼Ó  
-virtual  a. created by the computer to be similar to the experience of realĞéÄâµÄ  
-almost what is statedÊµÖÊÉÏµÄ,Êµ¼ÊÉÏµÄ  
-commitment  n.the hard work and loyalty that sb.gives to an organization,activity,ect Í¶Éí,ÖÂÁ¦,Ï×Éí            
-a promise to follow certain beliefs or actions³ĞÅµ,ĞíÅµ,±£Ö¤  
-discipline  n. a state of order and control;self-control.¼ÍÂÉ; ×ÔÖÆÄÜÁ¦
-a brance of learningÑ§¿Æ  
-minimum  a.the least or smallest possible ×îµÍµÄ,×îĞ¡µÄ
- n. the smallest amount ×îµÍÏŞ¶È,×îÉÙÁ¿  
-assignment  n.a piece of work given to a particular person ÈÎÎñ,×÷Òµ  
-embarrass  vt.make sb.feel ashamed,nervous or uncomfortableÊ¹ŞÏŞÎ£»Ê¹ÄÑ¿°
-embarrassing  a .make sb.feel embarrassedÊ¹ÈËŞÏŞÎµÄ£»Ê¹ÈËÄÑ¿°µÄ
-frustration  n. the feeling of being disappointed,annoyed ro upset¾ÚÉ¥;²»°²;»ÒĞÄ
-post   vt.  put up sth.on a screen,wall or notice board·¢Ìû×Ó;ÕÅÌù  
-continual a. continuing without stopping.²»¼ä¶ÏµÄ,²»Í£µÄ  
-happening again and again¶à´ÎÖØ¸´µÄ,Æµ·±µÄ  
-continually  ad. continuing for a long time without stopping ²»¼ä¶ÏµØ,²»Í£µØ    
-repeatedly for many times and over a long period of time¶à´ÎÖØ¸´µØ,ÆµÆµµØ  
-reap  vt. get sth esp sth good as a result of what one has done .»ñµÃ,µÃµ½ 
-cut and gather a crop of geainÊÕ¸î,ÊÕ»ñ  
-benefit  n.anything that brings help or profit Òæ´¦,ºÃ´¦ 
-vt.be useful or helpful to ÓĞÒæÓÚ  
-insight  n.an accurate or deep of understanding of sth¶´Ï¤,Éî¿ÌµÄ¼û½â  
-communicate  vi.exchang feelings,opinion or information with other people ½»Á÷,½»¼Ê 
-vt.make(opinions,feelings or informations)known or understood by others ´«´ï,´«²¥  
-favorite   a. best like or most enjoyed ×îÏ²»¶µÄ
-n. sb or sth that is loved about all othersÌØ±ğÏ²°®µÄÈË»òÎï  
-gap  n. a big difference between tow amounts,situations or groups of people²î¾à;·ÖÆç
-at times ÓĞÊ±£¬Å¼¶û 
-be well worth + sth./ doing sth. ÖµµÃ... ...µÄ  
-not only ...but also ... ²»½ö... ...¶øÇÒ ... ...  
-far from Ò»µã¶¼²»  
-a couple of Á½Èı¸ö  
-get/have/obtain access to ¿ÉÒÔÊ¹ÓÃ;»ñµÃ 
-participate in ²Î¼Ó 
-keep up with ¸ÏÉÏ,²»Âäºó  
-feel like sth./doing sth. Ïë×ö,ÏëÒª  
-give up Í£Ö¹,·ÅÆú
-think out ×ĞÏ¸¿¼ÂÇ;ÍÆÇÃ;×ÁÄ¥ 
-reap the benefits of »ñµÃÒæ´¦,µÃµ½ºÃ´¦  
-come across Å¼È»ÓöÉÏ  
-trade for ÓÃ... ... »»  
-participate in ²Î¼Ó  
-now that ¼ÈÈ», ÓÉÓÚ  
-reach out to ½Ó´¥, ÁªÏµ  
-community  n. ÉçÇø,Éç»á, ÍÅÌå,½ç  
+reward  vt.give sth in return for good and valuable doingså¥–èµ å›æŠ¥. 
+        n.sth as a return for good and valuable doingså¥–èµ å›æŠ¥
+rewarding  a.giving sb.satisfaction,pleasure,or profitå€¼å¾—åšçš„ï¼Œæœ‰ç›Šçš„ï¼Œæœ‰æ„ä¹‰çš„
+frustrate  vt.cause sb.to have feelings of disappointment.ä½¿æ²®ä¸§,ä½¿ç°å¿ƒ
+           cause the failure of sthä½¿æŒ«è´¥ ä½¿å—æŒ«æŠ˜
+junior  a.having a low position,level,or rank(åœ°ä½ï¼Œæ°´å¹³ï¼Œå±‚æ¬¡)è¾ƒä½çš„
+       n.sb.who is youngerå¹´å°‘è€…
+         sb.of low or lower position ï¼ˆåœ°ä½æˆ–ç­‰çº§ï¼‰è¾ƒä½è€…ï¼Œæ™šè¾ˆ  
+positive  a.helpful and encouraging in achieving sthç§¯æçš„
+definite;allowing no room for doubtç¡®å®çš„,æ˜ç¡®çš„  
+senior  a.having a higher position,level,or rank(åœ°ä½ï¼Œæ°´å¹³ï¼Œå±‚æ¬¡)è¾ƒé«˜çš„
+n.sb.who is older è¾ƒå¹´é•¿è€…
+  sb.of high or higher position(åœ°ä½æˆ–æ°´å¹³)è¾ƒé«˜çš„ï¼›é•¿è¾ˆ
+former  a.of an earlier period åœ¨å‰çš„,ä»¥å‰çš„,æ—§æ—¶çš„ 
+n.the first of the two people or things just mentioned å‰è€…  
+unlike  prep.noe like;different form ä¸åƒ;å’Œ... ...ä¸åŒ  
+intimidate  vt.create a feeling of fear æå“,å¨èƒ  
+opportunity  n.a good moment or chance for doing sth æœºä¼š,æ—¶æœº  
+online  a.connected to other computers through the Internetè¿çº¿çš„, è”ç½‘çš„,åœ¨çº¿çš„;
+ad.doing sth.online è¿çº¿åœ°, è”ç½‘åœ°  
+communication  n.the action of sending and exchanging information äº¤æµ,äº¤é™…;é€šè®¯  
+medium  n.a method for giving information åª’ä½“,åª’ä»‹ 
+a.of middle size,amount or quality ä¸­ç­‰çš„  
+modem   n. è°ƒåˆ¶è§£è°ƒå™¨  
+access  n.the right to have or use sth äº«ç”¨æƒ  
+the means of entering a placeé€šé“,å…¥å£  
+participate  vi.take part å‚ä¸,å‚åŠ   
+virtual  a. created by the computer to be similar to the experience of realè™šæ‹Ÿçš„  
+almost what is statedå®è´¨ä¸Šçš„,å®é™…ä¸Šçš„  
+commitment  n.the hard work and loyalty that sb.gives to an organization,activity,ect æŠ•èº«,è‡´åŠ›,çŒ®èº«            
+a promise to follow certain beliefs or actionsæ‰¿è¯º,è®¸è¯º,ä¿è¯  
+discipline  n. a state of order and control;self-control.çºªå¾‹; è‡ªåˆ¶èƒ½åŠ›
+a brance of learningå­¦ç§‘  
+minimum  a.the least or smallest possible æœ€ä½çš„,æœ€å°çš„
+ n. the smallest amount æœ€ä½é™åº¦,æœ€å°‘é‡  
+assignment  n.a piece of work given to a particular person ä»»åŠ¡,ä½œä¸š  
+embarrass  vt.make sb.feel ashamed,nervous or uncomfortableä½¿å°´å°¬ï¼›ä½¿éš¾å ª
+embarrassing  a .make sb.feel embarrassedä½¿äººå°´å°¬çš„ï¼›ä½¿äººéš¾å ªçš„
+frustration  n. the feeling of being disappointed,annoyed ro upsetæ²®ä¸§;ä¸å®‰;ç°å¿ƒ
+post   vt.  put up sth.on a screen,wall or notice boardå‘å¸–å­;å¼ è´´  
+continual a. continuing without stopping.ä¸é—´æ–­çš„,ä¸åœçš„  
+happening again and againå¤šæ¬¡é‡å¤çš„,é¢‘ç¹çš„  
+continually  ad. continuing for a long time without stopping ä¸é—´æ–­åœ°,ä¸åœåœ°    
+repeatedly for many times and over a long period of timeå¤šæ¬¡é‡å¤åœ°,é¢‘é¢‘åœ°  
+reap  vt. get sth esp sth good as a result of what one has done .è·å¾—,å¾—åˆ° 
+cut and gather a crop of geainæ”¶å‰²,æ”¶è·  
+benefit  n.anything that brings help or profit ç›Šå¤„,å¥½å¤„ 
+vt.be useful or helpful to æœ‰ç›Šäº  
+insight  n.an accurate or deep of understanding of sthæ´æ‚‰,æ·±åˆ»çš„è§è§£  
+communicate  vi.exchang feelings,opinion or information with other people äº¤æµ,äº¤é™… 
+vt.make(opinions,feelings or informations)known or understood by others ä¼ è¾¾,ä¼ æ’­  
+favorite   a. best like or most enjoyed æœ€å–œæ¬¢çš„
+n. sb or sth that is loved about all othersç‰¹åˆ«å–œçˆ±çš„äººæˆ–ç‰©  
+gap  n. a big difference between tow amounts,situations or groups of peopleå·®è·;åˆ†æ­§
+at times æœ‰æ—¶ï¼Œå¶å°” 
+be well worth + sth./ doing sth. å€¼å¾—... ...çš„  
+not only ...but also ... ä¸ä»…... ...è€Œä¸” ... ...  
+far from ä¸€ç‚¹éƒ½ä¸  
+a couple of ä¸¤ä¸‰ä¸ª  
+get/have/obtain access to å¯ä»¥ä½¿ç”¨;è·å¾— 
+participate in å‚åŠ  
+keep up with èµ¶ä¸Š,ä¸è½å  
+feel like sth./doing sth. æƒ³åš,æƒ³è¦  
+give up åœæ­¢,æ”¾å¼ƒ
+think out ä»”ç»†è€ƒè™‘;æ¨æ•²;ç¢ç£¨ 
+reap the benefits of è·å¾—ç›Šå¤„,å¾—åˆ°å¥½å¤„  
+come across å¶ç„¶é‡ä¸Š  
+trade for ç”¨... ... æ¢  
+participate in å‚åŠ   
+now that æ—¢ç„¶, ç”±äº  
+reach out to æ¥è§¦, è”ç³»  
+community  n. ç¤¾åŒº,ç¤¾ä¼š, å›¢ä½“,ç•Œ  
 
 
 
-expand v. 1.(Ê¹)À©´ó,(Ê¹)À©ÕÅ,(Ê¹)À©Õ¹ 2.ÅòÕÍ  
-aware a. ÒâÊ¶µ½µÄ,ÖªµÀµÄ  
-unique a. 1.Î©Ò»µÄ,¶ÀÌØµÄ ,¶ÀÒ»ÎŞ¶şµÄ 2.¼«²»Ñ°³£µÄ,¼«ºÃµÄ  
-following a. ½Ó×ÅµÄ,ÏÂÊöµÄ n. Ò»Åú×·ËæÕß  
-ideal a. 1.ÍêÂúµÄ;ÀíÏëµÄ 2.ÏëÏñµÄ,¿ÕÏëµÄ  
-visual a. ÊÓ¾õµÄ,¿´µÃ¼ûµÄ  
-barrier n. 1.Õ¤À¸,¹Ø¿¨,¼ìÆ±¿Ú 2.ÕÏ°­,¸ôºÒ 3.ÆÁÕÏ  
-addition n. 1.¼Ó,¼Ó·¨ 2.Ôö¼ÓµÄÈË(»òÎï)  
-reflect v. 1.ÉîË¼,¿¼ÂÇ,·´Ê¡ 2.·´Ó³, ÌåÏÖ 3.·´Éä,ÏÔÊ¾  
-environment n. »·¾³,ÖÜÎ§×´¿ö,×ÔÈ»»·¾³  
-critical a. 1.¾ö¶¨ĞÔµÄ,¹Ø¼üĞÔµÄ,Î£¼±µÄ 2.ÅúÆÀµÄ,ÅúÅĞµÄ  
-ability n. ÄÜÁ¦,±¾Áì, ²ÅÄÜ,²ÅÖÇ  
-perspective n. ÊÓ½Ç,¹Ûµã,Ïë·¨  
-peer n. Í¬ÁäÈË,Í¬µÈµØÎ»µÄÈË  
-instruct vt. 1.Ö¸Ê¾,ÃüÁî;Í¨Öª 2.½ÌÓı,Ö¸µ¼  
-instructor n. ½ÌÊ¦;Ö¸µ¼Õß  
-arise vi. 1.²úÉú;³öÏÖ;·¢Éú 2.(ÓÉ... ...)ÒıÆğ,(ÓÉ... ...)²úÉú,ÆğÔ´ÓÚ 3.ÆğÉí,Æğ´²  
-absolute a. Ê®×ãµÄ,µØµÀµÄ  
-absolutely ad. Ê®×ãµØ,µØµÀ  
-understanding n. 1.Àí½âÁ¦ 2.ÁÂ½â  
-reinforce vt. ÔöÇ¿,¼ÓÇ¿,¼Ó¹Ì  
-requirement n. ÒªÇó,±ØÒªÌõ¼ş; ĞèÒª,ĞèÒªµÄ¶«Î÷  
-likely a. ¿ÉÄÜµÄ,ÓĞÏ£ÍûµÄ ad. ¿ÉÄÜµØ  
-commit vt. 1.Ê¹ÓÃ; ÓÃÓÚ 2.·¸(´íÎó¡¢×ïĞĞµÈ),¸É(´ÀÊÂ¡¢»µÊÂµÈ) 3.Ê¹³Ğµ£ÒåÎñÊ¹³ĞÅµ  
-input n. ÊäÈë,Í¶Èë  
-essential a. ±Ø²»¿ÉÉÙµÄ,¾ø¶Ô±ØÒªµÄ,·Ç³£ÖØÒªµÄ n. ÒªËØ,Òªµã  
-challenge vt. 1.¶Ô... ... ÖÊÒÉ,¶Ô... ... »³ÒÉ 2.Ïò... ... ÌôÕ½  
-normally ad. Í¨³£,Õı³£µØ  
-sequence n. 1. Á¬Ğø,Ò»Á¬´® 2. ´ÎĞò,Ë³Ğò  
-sequential a. Á¬ĞøµÄ  
-vital a. 1.¼«ÆäÖØÒªµÄ 2.ÓĞÉúÃüµÄ,³äÂúÉú»úµÄ  
-effective a. 1.ÓĞĞ§µÄ,ÉúĞ§µÄ,Æğ×÷ÓÃµÄ 2.Ğ§¹ûºÃµÄ, ¸øÈËÓ¡ÏóÉî¿ÌµÄ  
-play a role in ... Æğ ... ...×÷ÓÃ  
-be aware of ¶Ô... ...Çå³ş  
-in addition ÁíÍâ,¼ÓÖ®  
-reflect on ÉîË¼,¿¼ÂÇ,·´Ê¡  
-allow for ¿¼ÂÇµ½,¹Ë¼°,Îª... ...Áô³öÓàµØ
+expand v. 1.(ä½¿)æ‰©å¤§,(ä½¿)æ‰©å¼ ,(ä½¿)æ‰©å±• 2.è†¨èƒ€  
+aware a. æ„è¯†åˆ°çš„,çŸ¥é“çš„  
+unique a. 1.æƒŸä¸€çš„,ç‹¬ç‰¹çš„ ,ç‹¬ä¸€æ— äºŒçš„ 2.æä¸å¯»å¸¸çš„,æå¥½çš„  
+following a. æ¥ç€çš„,ä¸‹è¿°çš„ n. ä¸€æ‰¹è¿½éšè€…  
+ideal a. 1.å®Œæ»¡çš„;ç†æƒ³çš„ 2.æƒ³åƒçš„,ç©ºæƒ³çš„  
+visual a. è§†è§‰çš„,çœ‹å¾—è§çš„  
+barrier n. 1.æ …æ ,å…³å¡,æ£€ç¥¨å£ 2.éšœç¢,éš”é˜‚ 3.å±éšœ  
+addition n. 1.åŠ ,åŠ æ³• 2.å¢åŠ çš„äºº(æˆ–ç‰©)  
+reflect v. 1.æ·±æ€,è€ƒè™‘,åçœ 2.åæ˜ , ä½“ç° 3.åå°„,æ˜¾ç¤º  
+environment n. ç¯å¢ƒ,å‘¨å›´çŠ¶å†µ,è‡ªç„¶ç¯å¢ƒ  
+critical a. 1.å†³å®šæ€§çš„,å…³é”®æ€§çš„,å±æ€¥çš„ 2.æ‰¹è¯„çš„,æ‰¹åˆ¤çš„  
+ability n. èƒ½åŠ›,æœ¬é¢†, æ‰èƒ½,æ‰æ™º  
+perspective n. è§†è§’,è§‚ç‚¹,æƒ³æ³•  
+peer n. åŒé¾„äºº,åŒç­‰åœ°ä½çš„äºº  
+instruct vt. 1.æŒ‡ç¤º,å‘½ä»¤;é€šçŸ¥ 2.æ•™è‚²,æŒ‡å¯¼  
+instructor n. æ•™å¸ˆ;æŒ‡å¯¼è€…  
+arise vi. 1.äº§ç”Ÿ;å‡ºç°;å‘ç”Ÿ 2.(ç”±... ...)å¼•èµ·,(ç”±... ...)äº§ç”Ÿ,èµ·æºäº 3.èµ·èº«,èµ·åºŠ  
+absolute a. åè¶³çš„,åœ°é“çš„  
+absolutely ad. åè¶³åœ°,åœ°é“  
+understanding n. 1.ç†è§£åŠ› 2.è°…è§£  
+reinforce vt. å¢å¼º,åŠ å¼º,åŠ å›º  
+requirement n. è¦æ±‚,å¿…è¦æ¡ä»¶; éœ€è¦,éœ€è¦çš„ä¸œè¥¿  
+likely a. å¯èƒ½çš„,æœ‰å¸Œæœ›çš„ ad. å¯èƒ½åœ°  
+commit vt. 1.ä½¿ç”¨; ç”¨äº 2.çŠ¯(é”™è¯¯ã€ç½ªè¡Œç­‰),å¹²(è ¢äº‹ã€åäº‹ç­‰) 3.ä½¿æ‰¿æ‹…ä¹‰åŠ¡ä½¿æ‰¿è¯º  
+input n. è¾“å…¥,æŠ•å…¥  
+essential a. å¿…ä¸å¯å°‘çš„,ç»å¯¹å¿…è¦çš„,éå¸¸é‡è¦çš„ n. è¦ç´ ,è¦ç‚¹  
+challenge vt. 1.å¯¹... ... è´¨ç–‘,å¯¹... ... æ€€ç–‘ 2.å‘... ... æŒ‘æˆ˜  
+normally ad. é€šå¸¸,æ­£å¸¸åœ°  
+sequence n. 1. è¿ç»­,ä¸€è¿ä¸² 2. æ¬¡åº,é¡ºåº  
+sequential a. è¿ç»­çš„  
+vital a. 1.æå…¶é‡è¦çš„ 2.æœ‰ç”Ÿå‘½çš„,å……æ»¡ç”Ÿæœºçš„  
+effective a. 1.æœ‰æ•ˆçš„,ç”Ÿæ•ˆçš„,èµ·ä½œç”¨çš„ 2.æ•ˆæœå¥½çš„, ç»™äººå°è±¡æ·±åˆ»çš„  
+play a role in ... èµ· ... ...ä½œç”¨  
+be aware of å¯¹... ...æ¸…æ¥š  
+in addition å¦å¤–,åŠ ä¹‹  
+reflect on æ·±æ€,è€ƒè™‘,åçœ  
+allow for è€ƒè™‘åˆ°,é¡¾åŠ,ä¸º... ...ç•™å‡ºä½™åœ°
